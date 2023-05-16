@@ -1,4 +1,4 @@
-# Wealth-of-Nations
+# Wealth-of-Nations Project at JustIT bootcamp
 For this project, used the data from the Wealth of Nations to expand my knowledge base of Microsoft Excel. Focused on creating charts, building macros and filtering for specific information. 
 
 ![image](https://github.com/Josephine-Quagraine/Wealth-of-Nations/assets/133653796/d20be896-310a-4a71-b1ef-a6f3f912637c)
